@@ -1,0 +1,6 @@
+[submodule "pixel-dungeon"]
+	path = app
+	url = git@github.com:oursland/pixel-dungeon
+[submodule "engine"]
+	path = engine
+	url = git@github.com:oursland/PD-classes
